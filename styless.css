@@ -1,0 +1,29 @@
+body {
+  background-image: url("footer.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+.vopros{
+  background-color: aliceblue;
+  opacity: 70%;
+  display: flex;
+  align-items: center;
+}
+
+.vopros__title{
+  font-size: 24px;
+  padding-left: 20px;
+}
+
+.vopros__checkbox{
+  padding-left: 100px;
+  display: flex;
+  flex-direction: row;
+}
+
+.vopros__otvet{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
